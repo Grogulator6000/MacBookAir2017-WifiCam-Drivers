@@ -9,10 +9,10 @@ So, yes wifi, no facecam (just yet) with this script.
 --
 Instructions:
 
-Get a wired connection (I use USB-tethering with my phone).
-Make sure to have non-free-firmware enabled in /etc/apt/sources.list
-Update and Upgrade apt
-Run the script (chmod u+x if it doesn't execute)
+- Get a wired connection (I use USB-tethering with my phone).
+- Make sure to have non-free-firmware enabled in /etc/apt/sources.list
+- Update and Upgrade apt
+- Run the script (chmod u+x if it doesn't execute)
 
 --
 
